@@ -261,7 +261,7 @@ section#gallery div img:hover {
   transform: scale(1.1);
 }
 section.quote {
-  background: url("/static/images/background-bromo.jpg") no-repeat;
+  background: url("static/images/background-bromo.jpg") no-repeat;
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -273,7 +273,7 @@ section.quote {
 }
 section.quote .layar-dalam p {
   display: inline;
-  background: url("/static/images/quote-icon.png") no-repeat;
+  background: url("static/images/quote-icon.png") no-repeat;
   padding: 40px;
 }
 .tim img {
